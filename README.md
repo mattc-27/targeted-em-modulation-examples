@@ -1,4 +1,4 @@
-# Psychoacoustic Anomaly Analysis
+# Investigate irregular patterns in ambient recordings using spectral, modulation, and inharmonicity-based methods.
 
 This repository contains audio samples and signal analyses exploring potential psychoacoustic anomalies. The goal is to document and investigate irregular patterns in ambient recordings using spectral, modulation, and inharmonicity-based methods.
 

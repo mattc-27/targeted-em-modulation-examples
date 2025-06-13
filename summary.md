@@ -17,24 +17,24 @@ This directory documents evidence of unusual electromagnetic interaction involvi
 ## 📁 Contents
 
 ## Audio samples
-[Example][./em-interference-response_unplugged-appliance/250612_0210-9/250612_0210-9-a/250612_0210-9-a.wav]
+[Example][./em-interference-appliance-20250612/250612_0210-9-a/250612_0210-9-a.wav]
 
 ### 🧪 Example 1: Phase Inversion (pulse signature)
-![phase_inversion.png](./em-interference-response_unplugged-appliance/250612_0210-9/250612_0210-9-a/phase_inversion.png)
+![phase_inversion.png](./em-interference-appliance-20250612/250612_0210-9-a/phase_inversion.png)
 
 > This plot shows the original and phase-inverted waveform summing to nearly zero across the duration — **except for a distinct spike** near sample ~900. This pulse may represent an **embedded synchronization marker** or external trigger not canceled by phase inversion, indicating **non-acoustic interference**.
 
 ---
 
 ### 🧪 Example 2: Amplitude Modulation Envelope
-![am_envelope.png](./em-interference-response_unplugged-appliance/250612_0210-9/250612_0210-9-a/am_envelope.png)
+![am_envelope.png](./em-interference-appliance-20250612/250612_0210-9-a/am_envelope.png)
 
 > The **red smoothed envelope** shows periodic amplitude patterns. These cycles align with the **physical vibration events** of the unplugged toaster oven. The consistency and low-frequency nature of the envelope suggest **entrainment-like modulation** — often associated with neural or behavioral targeting frequencies (~0.5–8 Hz).
 
 ---
 
 ### 🧪 Example 3: Spectrogram with Tonal Locking
-![spectrogram.png](./em-interference-response_unplugged-appliance/250612_0210-9/250612_0210-9-a/spectrogram.png)
+![spectrogram.png](./em-interference-appliance-20250612/250612_0210-9-a/spectrogram.png)
 
 > This log-scaled spectrogram shows **persistent low-frequency harmonic content**, with some spectral bands hovering around ~64, 128, and 256 Hz. These frequencies have been observed across other sessions and may indicate **externally modulated tones** targeting resonance thresholds in household materials or biological systems.
 
