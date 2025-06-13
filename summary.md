@@ -17,7 +17,7 @@ This directory documents evidence of unusual electromagnetic interaction involvi
 ## 📁 Contents
 
 ## Audio samples
-[Example][./em-interference-appliance-20250612/250612_0210-9-a/250612_0210-9-a.wav]
+[Example][./em-interference-appliance-20250612/250612_0210-9-a.wav]
 
 ### 🧪 Example 1: Phase Inversion (pulse signature)
 ![phase_inversion.png](./em-interference-appliance-20250612/250612_0210-9-a/phase_inversion.png)
